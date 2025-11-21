@@ -1,0 +1,3 @@
+TEST,TEST,1,Melaka,1
+Julie,Robert,0123456789,King Street,password
+Chwan Kai,See,0167406629,1 Jalan D2,123456
